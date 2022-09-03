@@ -1,0 +1,20 @@
+[
+    {
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https",
+    "id":   1
+    },
+    {
+        "title": "Calculadora",
+        "price": 245.67,
+        "thumbnail": "https",
+        "id":   2
+    },
+    {
+        "title": "Globo terraqueo",
+        "price": 346.78,
+        "thumbnail": "https",
+        "id":   3
+    }
+]
